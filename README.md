@@ -198,9 +198,9 @@ pip install genovi
 After installation, generate a circular genome map using:
 
 ```bash
-genovi -i NTD75_after.gbk \
+genovi -i Annotated.gbk \
        -s draft \
-       -t 'Actinacidiphila sp. NTD75' \
+       -t 'Genus sp. strain' \
        --title_position top \
        --italic_words 1 \
        -cs blossom \
